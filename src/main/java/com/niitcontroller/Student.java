@@ -1,5 +1,5 @@
 package com.niitcontroller;
-public class Student {
+public class  Student {
 	   private String name;
 	   private int rollNo;
 
